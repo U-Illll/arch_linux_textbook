@@ -1,0 +1,15 @@
+# 构建中间产物
+build/tmp/
+*.tmp
+*.aux
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
